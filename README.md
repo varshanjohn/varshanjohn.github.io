@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
+		<title>Hank Quinlan, Horrible Cop
+	</title>
 	</head>
 	<body>
 		<nav>
