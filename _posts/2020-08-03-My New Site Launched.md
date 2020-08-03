@@ -1,10 +1,7 @@
 ---
-layout: recipie
+layout: default
 title: "My Gingerbread Recipie"
 date: 2020-08-03
 ---
 
-jsdhkjasfh
-asfkjhsdlfh
-dskfhlsadhf
-kjdsbfjdsf
+take salt and add water
