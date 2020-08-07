@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 title: My Gingerbread Recipe
 recipe-attribution: HungryJenny
 recipe-attribution-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
