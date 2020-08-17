@@ -6,7 +6,7 @@ date: 2020-08-03
 
 <style>
    h1 {
-     color: blue;
+     color: grey;
    }
  </style>
 
