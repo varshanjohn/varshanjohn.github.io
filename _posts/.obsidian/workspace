@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "be8e110211fa09cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "175561e8eb4cc102",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020-08-04-Books-to-read-this-month.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c65707463cbe9974",
+    "type": "split",
+    "children": [
+      {
+        "id": "3663fe7e841281e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41cc37321c53fd6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b38791937efe335",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf6d0b91a0f3aed7",
+    "type": "split",
+    "children": [
+      {
+        "id": "14a878b955b1f46e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89955bb885f15c2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "2020-08-04-Books-to-read-this-month.md",
+    "2020-08-04-My-Gingerbread-Recipe.md",
+    "2014-04-30-my-new-site-launched.md"
+  ]
+}
