@@ -1,14 +1,9 @@
 ---
 layout: post
-title: The Circle of Competence and how we can use it
+title: The Circle of Competence and how we can use it⭕
 date: 2020-08-07
 ---
-# The Circle of Competence and how we can use it
-
-Created: Aug 27, 2020 11:37 AM
-Tags: BLOGWORTHY
-
-Hi there
+Hi there🤚
 
 Here's an interesting idea that I came across while reading the book "The Real Warren Buffet" by James O'Loughlin.-The Cirlcle of Competence.So here goes...
 
